@@ -43,10 +43,10 @@ The CIFAR-10 dataset has the following labels:
 ## 🛠️ Installation
 
 Clone the repository:
-\`\`\`bash
+```bash
 git clone https://github.com/your-username/cnn-cifar10.git
 cd cnn-cifar10
-\`\`\`
+```
 
 Install dependencies:
 \`\`\`bash
