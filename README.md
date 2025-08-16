@@ -44,14 +44,14 @@ The CIFAR-10 dataset has the following labels:
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/cnn-cifar10.git
+git clone https://github.com/hereismanan/cnn-cifar10.git
 cd cnn-cifar10
 ```
 
 Install dependencies:
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 ---
 
@@ -65,17 +65,17 @@ Main dependencies are listed in \`requirements.txt\`:
 - Pillow
 
 Install them with:
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 ---
 
 ## 📊 Results
 Example prediction output:
-\`\`\`
+```
 Predicted Label: Truck
-\`\`\`
+```
 
 ---
 
